@@ -1,5 +1,10 @@
 # Operating System Course Projects
 
+- [Operating System Course Projects](#operating-system-course-projects)
+  - [CA1: Socket Programming](#ca1-socket-programming)
+  - [CA2: MapReduce Counter](#ca2-mapreduce-counter)
+  - [CA3: Parallel Image Processing](#ca3-parallel-image-processing)
+
 ## CA1: Socket Programming
 
 A buyer-seller auction program is implemented in C using the POSIX sockets API.  
